@@ -1,4 +1,4 @@
-# qr_code2.py
+# qr_code2_generator
 A qr_code python project that can  help you save contacts and share information
 # Python Projects
 
